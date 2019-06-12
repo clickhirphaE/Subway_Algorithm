@@ -1,0 +1,21 @@
+ This assignment MUST be submitted to Canvas either as a document or paste the text in the textbox.
+ (Only one submission per group is necessary)
+Work together in groups to create an algorithm for going to Subway from the classroom to place an order.
+ You don't actually have to make an order..... get from the classroom to the door. 
+ Write the algorithm in such a specific way that it can't be misinterpreted.
+After your group has completed their algorithm then give your algorithm to the next group to test it and try to find issues with the algorithm. 
+Try to find errors and try to break the algorithm.
+    
+	
+	
+	
+	Head to the door from classroom
+   upon exiting the classroom door walk head for 20 feet
+     make left and go head for 10 feet until you see the escalator on your right side
+     Activate the button to open the escalator
+     get into the escalator and push 1 button which takes you to the ground+1
+     upon on exiting the building make left and head to the subway 
+     
+End 
+	 
+	
